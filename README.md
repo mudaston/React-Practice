@@ -29,8 +29,7 @@ This application is similar to the administrative panel.
 
 ## Demo
 
-[https://react-practice-demo.herokuapp.com/](https://react-practice-demo.herokuapp.com/)
-You need to wait a bit while the page is loading.
+[https://react-practice-demo.herokuapp.com/](https://react-practice-demo.herokuapp.com/) You need to wait a bit while the page is loading.
 
 <br/>
 
