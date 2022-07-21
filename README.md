@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+# :office_worker: React Practice
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div>
 
-## Available Scripts
+<a href="https://reactjs.org" target="_blank">
+<img src="https://img.shields.io/badge/React-17.0.2-61DAFB?style=for-the-badge&logo=React">
+</a>
 
-In the project directory, you can run:
+<a href="https://styled-components.com/" target="_blank">
+<img src="https://img.shields.io/badge/Styled%20Components-5.3.5-DB7093?style=for-the-badge&logo=styled-components">
+</a>
 
-### `npm start`
+<a href="https://webpack.js.org/" target="_blank">
+<img src="https://img.shields.io/badge/Webpack-5.68.0-8DD6F9?style=for-the-badge&logo=Webpack">
+</a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p>
 
-### `npm test`
+![GitHub repo size](https://img.shields.io/github/repo-size/mudaston/React-Practice?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mudaston/React-Practice?style=for-the-badge)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</p>
 
-### `npm run build`
+This application is similar to the administrative panel.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Demo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[https://react-marvel-demonstration.herokuapp.com/characters](https://react-marvel-demonstration.herokuapp.com/characters)
+You need to wait a bit while the page is loading.
 
-### `npm run eject`
+<br/>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Screenshots
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64277973/180246887-0442e427-f7d2-4009-824c-945d55cb7961.png"
+     width="800"
+/>
+</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## System Requirements
 
-## Learn More
+- [git](https://git-scm.com/)
+- [NodeJS](https://nodejs.org/en/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br/>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Run Locally
 
-### Code Splitting
+Clone the project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+  git clone https://github.com/mudaston/React-Practice.git
+```
 
-### Analyzing the Bundle Size
+Go to the project directory
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+  cd React-Practice
+```
 
-### Making a Progressive Web App
+Install dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+  npm install
+```
 
-### Advanced Configuration
+Start the server
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```bash
+  npm run start
+```
 
-### Deployment
+Open in a browser
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```bash
+  http://localhost:3000
+```
 
-### `npm run build` fails to minify
+<br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Lessons Learned
+
+In this project, I learned how React works.
+
+<br/>
+
+## Additional
+
+My first React app :slightly_smiling_face:
